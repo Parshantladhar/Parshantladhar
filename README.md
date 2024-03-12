@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="left">Hi 👋! My name is Parshant Kumar and I'm a Software Develpment Engineer ....😎</h2>
+<h2 align="left">Hi 👋! My name is Parshant Kumar and I'm a Software Development Engineer ....😎</h2>
 
 ###
 
