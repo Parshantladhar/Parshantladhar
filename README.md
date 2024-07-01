@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<h2 align="left">Hi 👋! My name is Parshant Kumar and I'm a Software Development Engineer ....😎</h2>
+<h2 align="left">Hi 👋! My name is Parshant Kumar. Enthusiastic Student with superior skills in working in both team-based and independent capacities. Bringing strong work ethic
+and excellent organizational skills to any setting. Excited to bring above average user skills in information technology
+and social media ....😎</h2>
 
 ###
 
